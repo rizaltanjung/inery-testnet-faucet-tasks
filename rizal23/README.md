@@ -13,7 +13,7 @@ edit pushinery.js sesuai akun kalian
 nano pushinery.js
 
 ```
-dan ubah file .env-sample
+dan ubah file .env-sample 
 ```shell
 mv .env-sample .env
 nano .env
